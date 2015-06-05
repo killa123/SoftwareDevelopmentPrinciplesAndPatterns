@@ -1,7 +1,6 @@
 package com.lianlianDesign.OCP;
 
 import com.lianlianDesign.OCP.Shape;
-import com.lianlianDesign.OCP.ShapeType;
 
 public class Triangle extends Shape{
 
