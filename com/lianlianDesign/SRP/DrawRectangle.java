@@ -1,4 +1,4 @@
-package com.lianlianDesign;
+package com.lianlianDesign.SRP;
 
 public class DrawRectangle{
 

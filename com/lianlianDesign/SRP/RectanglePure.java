@@ -1,6 +1,6 @@
-package com.lianlianDesign;
+package com.lianlianDesign.SRP;
 
-import com.lianlianDesign.DrawRectangle;
+import com.lianlianDesign.SRP.DrawRectangle;
 
 public class RectanglePure{
 
